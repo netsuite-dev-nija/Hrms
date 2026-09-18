@@ -1,0 +1,38 @@
+{
+  "id": "employee",
+  "name": "Employee Record",
+  "version": "1.0.0",
+  "description": "Employee records, validation, leave balance, compensation, holiday and employee-related scripts",
+  "components": {
+    "objects": [
+      "customrecord_hris_employee_compen_change",
+      "customrecord_hris_leavebalance",
+      "customrecord_hris_employeedatasourcing",
+      "customrecord_hris_employee_compensation",
+      "customrecord_hris_leaveconfig",
+      "customrecord_hris_unique_reference_numbe",
+      "customrecord_hris_holiday_master",
+      "customrecord_cseg_njt_seg_emp"
+    ],
+    "scripts": [
+      "customscript_hris_empinactivaterecord_ue",
+      "customscript_hris_empcreateleavebal_ue",
+      "customscript_hris_empcodegen_ue",
+      "customscript_hris_empdisableedit_ue",
+      "customscript_hris_empsetholiday_ue",
+      "customscript_hris_emp_seg_ue",
+      "customscript_hris_empcreatedata_ue",
+      "customscript_hris_emptoempcompchange_ue",
+      "customscript_hris_post_emp_details_ues",
+      "customscript_hris_post_emp_details_sch",
+      "customscript_hirs_mobile_password_updati",
+      "customscript_hris_emp_legalset_cs",
+      "customscript_hris_empholidaysour_cs",
+      "customscript_hris_fileupload_cs",
+      "customscript_hris_empvalidat_cs",
+      "customscript_hris_emp_esiccheck_cs",
+      "customscript_hris_employee_mas_to_dire_a",
+      "customscript_hris_emp_leavecredit"
+    ]
+  }
+}
