@@ -1,8 +1,8 @@
 {
-  "id": "employee",
-  "name": "Employee Record",
+  "id": "compensationchange",
+  "name": "Compensation Change",
   "version": "1.0.0",
-  "description": "Employee records, validation, leave balance, compensation, holiday and employee-related scripts",
+  "description": "HRIS Compensation Details Earning, , HRIS Compensation Detail Others, HRIS Compensation Details Benefits, HRIS Compensation Detail Deductions",
   "components": {
     "objects": [
       	"customrecord_hris_compensation_details_e",
