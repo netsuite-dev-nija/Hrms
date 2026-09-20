@@ -1,6 +1,6 @@
 {
   "id": "compensationchange",
-  "name": "Compensation Change",
+  "name": "Compensation Change History",
   "version": "1.0.0",
   "description": "HRIS Compensation Details Earning, , HRIS Compensation Detail Others, HRIS Compensation Details Benefits, HRIS Compensation Detail Deductions",
   "components": {
@@ -9,7 +9,7 @@
 	"customrecord_hris_compensation_detail_ot",
 	"customrecord_hris_compensation_details_b",
 	"customrecord_hris_compensation_detail_de",
-          ],
+     ],
     "scripts": [
 
     ]
