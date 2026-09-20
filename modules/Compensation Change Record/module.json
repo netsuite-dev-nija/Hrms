@@ -1,0 +1,17 @@
+{
+  "id": "employee",
+  "name": "Employee Record",
+  "version": "1.0.0",
+  "description": "Employee records, validation, leave balance, compensation, holiday and employee-related scripts",
+  "components": {
+    "objects": [
+      	"customrecord_hris_compensation_details_e",
+	"customrecord_hris_compensation_detail_ot",
+	"customrecord_hris_compensation_details_b",
+	"customrecord_hris_compensation_detail_de",
+          ],
+    "scripts": [
+
+    ]
+  }
+}
