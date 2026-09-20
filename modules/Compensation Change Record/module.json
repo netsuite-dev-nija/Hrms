@@ -2,16 +2,14 @@
   "id": "compensationchange",
   "name": "Compensation Change History",
   "version": "1.0.0",
-  "description": "HRIS Compensation Details Earning, , HRIS Compensation Detail Others, HRIS Compensation Details Benefits, HRIS Compensation Detail Deductions",
+  "description": "HRIS Compensation Details Earning, HRIS Compensation Detail Others, HRIS Compensation Details Benefits, HRIS Compensation Detail Deductions",
   "components": {
     "objects": [
-      	"customrecord_hris_compensation_details_e",
-	"customrecord_hris_compensation_detail_ot",
-	"customrecord_hris_compensation_details_b",
-	"customrecord_hris_compensation_detail_de",
-     ],
-    "scripts": [
-
-    ]
+      "customrecord_hris_compensation_details_e",
+      "customrecord_hris_compensation_detail_ot",
+      "customrecord_hris_compensation_details_b",
+      "customrecord_hris_compensation_detail_de"
+    ],
+    "scripts": []
   }
 }
